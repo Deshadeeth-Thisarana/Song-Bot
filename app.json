@@ -8,7 +8,6 @@
         "Telegram Bot",
         "JE Bots"
     ],
-    "website": "sltechcom.webnode.com",
     "repository": "https://github.com/deshadeeth-thisarana/Song-Bot",
     "success_url": "https://t.me/GalaxyFiendsTeam",
     "env": {
