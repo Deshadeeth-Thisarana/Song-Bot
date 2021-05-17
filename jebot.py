@@ -1,4 +1,4 @@
-﻿#    Copyright (c) 2021 Galaxy BOT <https://t.me/GalaxyLanka>
+﻿#    Copyright (c) 2021 Galaxy BOT <https://t.me/GalaxyFriendsTeam>
  
 #    This program is free software: you can redistribute it and/or modify  
 #    it under the terms of the GNU General Public License as published by  
@@ -210,7 +210,7 @@ async def help(client, message):
                chat_id=message.chat.id,
                text="""<b>Send a song name to download song
 
-~ @GalaxyLanka</b>""",
+~ @GalaxyFriendsTeam</b>""",
             reply_to_message_id=message.message_id
         )
     else:
